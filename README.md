@@ -1,6 +1,6 @@
-# React Jobs
+# HireQuest
 
-React Jobs is a simple web application designed to facilitate job postings and job searching, built using React, Tailwind CSS, and JSON Server. This project serves as a learning exercise to understand the fundamentals of React and its ecosystem.
+HireQuest is a simple web application designed to facilitate job postings and job searching, built using React, Tailwind CSS, and JSON Server. This project serves as a learning exercise to understand the fundamentals of React and its ecosystem.
 
 <img src="public/screen.png" />
 
